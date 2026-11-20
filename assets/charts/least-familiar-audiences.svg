@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="wave-five-only" viewBox="0 0 820 455" role="img" aria-labelledby="title desc" xml:lang="fa" font-family="ChartZar, Tahoma, sans-serif" font-size="30">
+  <title id="title">سهم گروه کم‌آشنا با فعالیت‌های سازمان</title>
+  <desc id="desc">نمودار میله‌ای سهم از نمونه: موج ۲، ۷۵٫۷۱ درصد. موج ۳، ۵۰٫۱۰ درصد. موج ۴، ۳۷٫۷۵ درصد. موج ۵، ۴۱٫۷۳ درصد.</desc>
+  <style>
+    @font-face{font-family:ChartZar;src:url(data:font/woff;base64,d09GRgABAAAAAA6sAA4AAAAAFNwAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAAOIAAAAIsAAADWFdT8o09TLzIAAAG8AAAARQAAAFZ3dmnGY21hcAAAAlQAAAA+AAAATAycDdpjdnQgAAAC7AAAADAAAABKol9IE2ZwZ20AAAKUAAAAFAAAABSDM8JPZ2x5ZgAAA0wAAAqGAAAQWqIiOxJoZWFkAAABRAAAADYAAAA2A3/opGhoZWEAAAF8AAAAHwAAACQKIQEIaG10eAAAAgQAAABQAAAAWEvhB8Jsb2NhAAADHAAAAC4AAAAuKiol721heHAAAAGcAAAAIAAAACAAtQGAbmFtZQAADdQAAAA1AAAANgJFCntwb3N0AAAODAAAABMAAAAg/BsAPHByZXAAAAKoAAAAQQAAAFzTIeIiAAEAAAABAAC06DGkXw889QACCAAAAAAAt+XVYAAAAADnJM2Q/+L8WwV9BGEAAAADAAIAAAAAAAB4nGNgZGBg2f9nP5D8+v/Rf1vWWgagCAoQAwC0WwcvAAABAAAAFgA9AAIAAAAAAAIACABAAAoAAACKAQEAAAAAeJxjYGSWZJzAwMrAwDqL1ZiBgVEVQjMvYEhjEmIAAhYGGFBgQAa+UebGDA4MCmw/2Z//msLAwP6cNQcozAiSAwBxCAoVAAAAeJxjYWBoYJzAwMDsy8jL7MvwCIjrgFgEiB2A2AOIC4FYCIpzWHYx7GH5CsRS/x+zVP1/zPSe4QALG8MhJpf/j5j9gFiMIZI5myEaACmMFuF4nGNgYGBkYAZiBgYeBhYGBzDNwcAEZCuw6bC5snmw/fz/HygK4334////w58Pfp7+eeanEFgfHAAAy44QhQAAQAEALHZFILADJUUjYWgYI2hgRC14nHOQ5Ofn4+Pl5eHh5ubi4uTk4GBnZ2NjZWVgYOzdwfi/1TXDhSDazMToxqC9mYUZSG5kZASKbGRmBpIAOb0U6wAAAHicY2BgiGYoY3jM8J9hFkM6Yy6jHDMfkxfDUWY+5lym20xe0S+JgQzCDKIAyqAfQgAAAAAAAAAvAG0AuwEfAZICAAJrArkDBwNiA/IEmwUlBccGLQaWBvkHXgfECC0AAHiclVdpcFvVGb33Xb1Fu56W97RZlp/2xZK1y1rs5yVOYofENlmcBZskJDEhkNiEJJCQpqXZgDBNy9IJpGCWUqCllJnCJAVKC10oHRho6bQdhhkSCiWlDNBMhx+x3PueZfs5BIZaM9LVSON7zvnO+b5PAEI9NBJe4mlAg5yohwwjqoEKUARU9exKFuwgmYSJBEi1wMWjp/AHzOLR9U+Jg0NFtnAKMFMvFldDig6G8gWO8Oq6KkeM5WHCHHo7Pxw/OwgABGemPiT6VIPADIqiEVosopVlVJDVEpCZ/f/JydkLGGBRXmCRLghQPiFEhIKhQj6T5jmes1mJiNZoJAzL2g9cztIMf3W11RiMwvDZnz8/0dR0z/tvvXKndPf+qc+I0/huFxBFC3S7xQbgtOoIoIEqIwN1yvsxxUSijkEH3EoMbpmklcbX0jISKOPguUy6kJeOxOnzbRGtTgfNtb9VKJp27GgShzINbhtrR3/6b+zP79+3nOPge/CZB0z8/kDCWU1gbNapT1CP6koQBotFO4xExCgIOTnKzGB0JhXyewzQPAMwOTkLcRakGUSUICN1kBJAyjcHFQOUFJOgZtI0JZ3wAfU0Nm/c3tm5tZRS67TQMAX4sMEkDAldW8WAqVFP56JpXwm50IVdl+9asvXJ1x7fabPCGty0djdvDl8dvq1/ecLN3S1pLE79EzlUa0AGDIhumM2KuXSLl7dR6bDHzFAqFPcjh0M3x8U0idkk5D+ZzhyfrJJPtu4siUWdTS4vWwDTwQxkF+DPgj6BpmzWGYY2K7Jyrf1j7YsiRa3egPoXjy+kzZctWPFQdoyjWbW6unBhQRQL2ZsX6DUG4tO2dA9/7z0/2mO3n//87IlXbWzf2Du9LUadmRSEUFdSaEirWS0gwKKpTxGtGgI8aAbLMM9EQkyCsJtiTV6os0MQRyo/YswKU8k8k5NS3UBCYa2EkmViXtUwm1wWW2qaJEdnMV9KyU56RXSsNLYm07PyylxssGtpsJWyvdV3x4abhsaL5UUNTYUVURNNmcNLN8NHD42f6Ni0cWB07y/vHfe+xvEfbn7pjXUntm9eccsPukvN2XYHn5YqODb1AYpiJ7aARSIPUykxnWwOuZM+p9mk8SKOY5TFU5RutnApJaXUTOFouXgyoXxBJiYRmCnaLKt61Xyc44ePfm+10cSqPN7S8Plrdm27btAY02lX9bbtXdlV7rwytMWlMyD7lv7O0w+f9gp6087+73wjM7rhxy/cyNliVGJvW6qBb3ctMHNqiZV56t+opGrD2W/FfUfOvtWgAU4KapR9bZaG5lKhpxB+SDlCMk7ebJEwm6UzKt0+yg+4WLPj4CfahJZWW8/1kRRFX/8XljGgPU/W3umovTc8Av8DPZFveZ21N2sHHW74139ZZGwfYWxVjK0kmmRsGqsGUE4D/mwaXHsdXR0cuAS4Qt6CHzKo6ZgQSAoDIZ3NX4Ht6Seh0AHdwyM1fe2MBA0m4F6HuxbG0LDTt02dIc6p1gMONIE+0QkFQfQB2g30hI0nbGrkdSCWRVB/kc9Nkwq4eiAo4QpyE6cpbOfgnM1lN5jQnBeIc1UNOxBoNEUTG9dt3bBlxbZM0x5uiyAubcsbf/Z0g23Dro2P6QviFdc9/JPfHLinNgkzry4Rmt0cRv3chTvJm+FZnM4U+LZYhum0mImnktGWRNxt1SVSiSSZbEmlEi34qSWVIBNJfEomW/wQF4sLI5UZOR2cam4mJSuYkklidjjBvMxcYF6eef1iAhiQVtJNz7YubyjISv6Xm1QoKHFWZTJpIyHQ9Vw34QTgzkqHCuTo8efWHK+9P3Hqkb0Pfr/3ioiRolXCs6vg0KonDATRtXP/3+9/+/wpSJ57wTX5+rpDI5P5zj7brsPQ9NkvbutwWWmSsjzRwqiOuJJjJ//x4dhKgTRq4G+Prr0VKPQpggo4KS6G1arYVqiUcrFyayHmxRK1VlpLZKlcqbSW8VO50kq2lvCpVCpHiGAgKcuUmZYp4EdBThUKghm12iuSDSpzkuHTl6g2f4YxoKoUrvp1hJOskrE1SY3l/9ZQ+K6r+dATtQuv2j+4782vo6UpzQUmjrd05cdPvDtPUmLqbO0RlZlwgwj23BGxKk+EcLMrHg27WI06Hos3k83RWCwejcaa481RMhqLx5vxex41EhAFA1oNYhpjagZA9cUqVrCIX6bfXMNSX2qU0D7ZWj5fbrq35qQZolBR3gWkhivJpWKjO9/dV/3D7qsGhnoPP+Nh2YWDSzJDRQvDqCsP5EZPZo/deUBd68UCwa0HE/xV5YlYiVaRJOVwO3mGpu0PxzpMMYqY/NWcJsewJlnss5NiL2xtFUug6CELuWTMY9XrSAypSBZz+Xwhl8sXC8UcmcsXCkX8HhFZkM0YkB4BJxKSCRQJC3m8miDcy+sztZ2vyLmsSC7jK/CrXDZ/5rYqhWqVu5GvbqCvoxVN+2TXyZode+933FN3W1/ctGBgqO/Qsw1Wa3x8ILP0ItFg9LGya+VDk49K2u0LVy1lZm3LRLxCSeoZAvPUQwdb9FTt9npSX7ywlfiYoHD3jYAFIgejUTEGwmHBhPdCux95PGZoV4xjeS+c67x2EFVyjc7sF6FgvePgCTY9gkPE9GiWeNIyazpPfOzXL1qeW7jgCri6Qmn1Pkfn4m59T7u4drD3/uCwz8mhPug+aqRIUq0TmvMUWdtYm/DFksdGPofW0cNjt69f1du9RIwFQn5pBv/6wlqVH27BO+6g2DC94+rVKGxhESAJVziEgM8G8Rdd8xJQ56QsoesSy25gbjOc3pN4MyszQ8H60jG9+WZU/lu+2Y+srmw1EdIMiTlqhNVbheXEwsHDGqvBfmvD7ttWwAJvby/0DS/bSFYzjTVX7aMdN74EJ/W2sdE9LrbRxl5lEnF1ps4ASHQTeByDIN53G2AoJIZBgEI+g76BAF7EGw1Ix+t1YGZAYk4mOdCzC/zsjAwpKYVkSlZMJnhRhGesSGdnRiXRvczhe4Xi7Vp3uL+0vDepK0fMybZUE+f0j1WbLKED9t87Nw9HLen8RNk4voyvcMaudUnhcr/Fk9FILKbeQtvgXVhWH1gn+qHfLwaAW4sEt8tkxCxsLieLTAjYaKNBTqBRkUApe5faA43AryTkn6nR9HIS9KVnKE3/dsqQeTlsHNpW3L6D1Bj9XUfW67Nv+AuLj/YNdCY7bupf2VsbU9nsvsZUCvZ38cJI9+6JG/a339DuCXf0XhaU0rK6thdZCQdowB4bmPGYSafxmBhA4B9dATMKCcjpVEx2xcIyf4hfwmJ1d+WyPCeXYt7yQgfriyxeBq0Hjz8/tNvRcO3a64/ewQyk28OBfFvnQNy7meJdTbx/YeiPL7/w+gCrN5Gsybb/lh2ZZLxjybU3H9oQ83uDcb4Nc1lbs6Kj8HHQiJO/RhTqydcGvWY1RzSCRg8CBkT6MRtSCs28sSE95I548Yz4YjsI+KgZVvhnlFSQnHIjy0w3QZnV0Wu1B+56qnu8zLr2eW888eD23JJqR0+73zXyU8bpCUY38fCOB59fk2DVwq59Oy2u3jXXXL+1fykR8fiy1f8BGnO5YAAAeJxjYGBgYpBjYGZgZOFkYGTgYmCAspkY+IA8JwYFhiiGRIYihiCGVIZ0hlKGHBAPAD8kBMkAAAB4nGNgZgCDPxIMNgxYAAAfMQFUAHicVY67CsJAEEXPbFYRCSoaIaSyELEQP8NPsF8xgS2SQvP/cXYMhDTzOHPv3UWANWeeSPiEFyu8EobBuuDI8LGLPVVbvyOnJnaBS/ute26mwKqM6lTVoZkldx52EU0VCr1O21JVSZ+zm1Exf6IFi5E7NpqW2UtXS8k56uzMv9V9z8G4///gB3hMDYEA) format("woff")}
+    svg:has(.bar-row:target) .bar-row:not(:target) { opacity: .24 }
+    svg:has(.bar-row:target) .plot-frame { display: none }
+    svg:target :is(.plot-frame, .bar-row:not(#wave-5), .wave-labels text:not(:last-child)) { display: none }
+  </style>
+  <g class="plot-frame">
+    <path d="M110 30V400 M238 30V400 M366 30V400 M494 30V400 M622 30V400 M750 30V400" fill="none" stroke="#d7ded5" stroke-width="2" />
+    <path d="M110 400H750 M110 400V409 M238 400V409 M366 400V409 M494 400V409 M622 400V409 M750 400V409" fill="none" stroke="#8c9a91" stroke-width="2" />
+    <g fill="#53665d" text-anchor="middle" direction="ltr">
+      <text x="110" y="438">۰٪</text>
+      <text x="238" y="438">۲۰٪</text>
+      <text x="366" y="438">۴۰٪</text>
+      <text x="494" y="438">۶۰٪</text>
+      <text x="622" y="438">۸۰٪</text>
+      <text x="750" y="438">۱۰۰٪</text>
+    </g>
+  </g>
+  <g class="wave-labels" fill="#20352e" text-anchor="middle" direction="rtl">
+    <text x="60" y="85">موج ۲</text>
+    <text x="60" y="175">موج ۳</text>
+    <text x="60" y="265">موج ۴</text>
+    <text x="60" y="355">موج ۵</text>
+  </g>
+  <g class="bar-row" id="wave-2">
+    <rect x="110" y="55" width="484.544" height="40" rx="3" fill="#547c65" />
+    <text x="608.544" y="85" fill="#153d34" direction="ltr">۷۵٫۷۱٪</text>
+  </g>
+  <g class="bar-row" id="wave-3">
+    <rect x="110" y="145" width="320.64" height="40" rx="3" fill="#547c65" />
+    <text x="444.64" y="175" fill="#153d34" direction="ltr">۵۰٫۱۰٪</text>
+  </g>
+  <g class="bar-row" id="wave-4">
+    <rect x="110" y="235" width="241.6" height="40" rx="3" fill="#547c65" />
+    <text x="365.6" y="265" fill="#153d34" direction="ltr">۳۷٫۷۵٪</text>
+  </g>
+  <g class="bar-row" id="wave-5">
+    <rect x="110" y="325" width="267.072" height="40" rx="3" fill="#d8b981" stroke="#80643b" stroke-width="1.5" />
+    <text x="391.072" y="355" fill="#153d34" direction="ltr">۴۱٫۷۳٪</text>
+  </g>
+</svg>
